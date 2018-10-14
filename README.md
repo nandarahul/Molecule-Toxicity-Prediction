@@ -151,7 +151,9 @@ Ultimately, I selected Random Forest to run on the final test data.
 ### Logistic Regression
 ![alt text](/CurvePlots/LR_ROC.png)<!-- .element height="50%" width="50%" -->
 ![alt text](/CurvePlots/LR_learning_curves.png)
-<img src="/CurvePlots/LR_ROC.png" width="40%">
+<img src="/CurvePlots/LR_ROC.png" width="70%">
+<img src="/CurvePlots/LR_learning_curves.png" width="70%">
+
 
 ### Neural Network
 ![alt text](/CurvePlots/NN_ROC.png)
