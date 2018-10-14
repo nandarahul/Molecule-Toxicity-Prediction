@@ -149,22 +149,18 @@ Ultimately, I selected Random Forest to run on the final test data.
 
 ## Plots
 ### Logistic Regression
-<img src="/CurvePlots/LR_ROC.png" width="45%" >
-<img src="/CurvePlots/LR_learning_curves.png" width="45%" >
+<img src="/CurvePlots/LR_ROC.png" width="45%" > <img src="/CurvePlots/LR_learning_curves.png" width="45%" >
 
 
 ### Neural Network
-<img src="/CurvePlots/NN_ROC.png" width="45%" />
-<img src="/CurvePlots/NN_learning_curve.png" width="45%" />
+<img src="/CurvePlots/NN_ROC.png" width="45%" /> <img src="/CurvePlots/NN_learning_curve.png" width="45%" />
 
 
 ### Random Forest
-<img src="/CurvePlots/RF_ROC.png" width="45%" />
-<img src="/CurvePlots/RF_learning_curve.png" width="45%" />
+<img src="/CurvePlots/RF_ROC.png" width="45%" /> <img src="/CurvePlots/RF_learning_curve.png" width="45%" />
 
 
 ### Boosted Decision Tree
-<img src="/CurvePlots/xgb_ROC.png" width="45%" />
-<img src="/CurvePlots/XGB_learning_curves.png" width="45%" />
+<img src="/CurvePlots/xgb_ROC.png" width="45%" /> <img src="/CurvePlots/XGB_learning_curves.png" width="45%" />
 
 
