@@ -148,5 +148,19 @@ Since p value is more than 𝛂, we reject the Null Hypothesis in favour of the 
 Ultimately, I selected Random Forest to run on the final test data.
 
 ## Plots
-
+### Logistic Regression
 ![alt text](/CurvePlots/LR_ROC.png)
+![alt text](/CurvePlots/LR_learning_curves.png)
+
+### Neural Network
+![alt text](/CurvePlots/NN_ROC.png)
+![alt text](/CurvePlots/NN_learning_curve.png)
+
+### Random Forest
+![alt text](/CurvePlots/RF_ROC.png)
+![alt text](/CurvePlots/RF_learning_curve.png)
+
+### Boosted Decision Tree
+![alt text](/CurvePlots/xgb_ROC.png)
+![alt text](/CurvePlots/XGB_learning_curves.png)
+
