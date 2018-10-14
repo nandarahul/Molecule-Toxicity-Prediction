@@ -110,7 +110,7 @@ Random Forest: (0.8691234697128295, {'max_depth': 8})
 | Neural Network                 | Learning_rate = 0.01, epochs = 10   |
 | Random Forest                  | Max_depth = 9                       |
 
-### Determining the Best Model
+### Determining the Best Model (Multiple Hypothesis Test)
 Once we have done the hyper-parameter tuning for all the 4 classifiers, we need to determine the best performing classifier that would be used to run on the final test data. This would involve a multiple hypothesis test. Here is the followed procedure:
 Using Stratified K-fold Cross Validation, train the 4 classifiers on K-1 folds and test on Kth fold.
 We take K as 10. In every iteration of the Cross Validation, we compute the AUC score of each classifier on the Validation set.
