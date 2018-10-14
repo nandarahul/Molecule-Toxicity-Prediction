@@ -146,3 +146,7 @@ Since p value is more than 𝛂, we reject the Null Hypothesis in favour of the 
 
 **From the multiple hypothesis test, we cannot really say which model is the best model. Random Forest and Gradient Boosted Decision trees are comparable in terms of performance.**
 Ultimately, I selected Random Forest to run on the final test data.
+
+## Plots
+
+![alt text](/CurvePlots/LR_ROC.png)
